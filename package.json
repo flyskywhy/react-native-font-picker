@@ -1,6 +1,6 @@
 {
   "name": "react-native-font-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Font picker component to be used in `ctx.fillText()` on @flyskywhy/react-native-gcanvas or just in `<Text/>` of react-native",
   "main": "index.js",
   "author": {
@@ -17,7 +17,7 @@
     "url": "https://github.com/flyskywhy/react-native-font-picker/issues"
   },
   "dependencies": {
-    "@flyskywhy/react-native-custom-picker": "^1.0.0"
+    "@flyskywhy/react-native-custom-picker": "^1.0.1"
   },
   "scripts": {
     "test": "echo \"no tests yet\" && exit 0"
