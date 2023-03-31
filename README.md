@@ -45,10 +45,10 @@ import {getFontNames} from '@flyskywhy/react-native-gcanvas';
           fieldPlaceholderText={'FONT'} // default is 'Pick a font...'
           fieldIndiText={'FONT: '}
           styleFieldContainer={{
-            padding: 10,
+            height: 40,
             backgroundColor: 'rgba(255, 255, 255, 0.1)',
           }}
-          styleFieldPlaceholderText={{color: '#4489FF'}}
+          styleFieldPlaceholderText={{paddingLeft: 20, color: '#4489FF'}}
           styleFieldIndiText={{color: '#4489FF'}}
           styleFieldFontText={[
             {color: 'red'},

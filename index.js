@@ -121,6 +121,7 @@ const styles = StyleSheet.create({
     margin: 0.5,
   },
   fieldContainer: {
+    justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: 'rgba(255, 255, 255, 0.3)',
     borderRadius: 20,
